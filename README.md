@@ -1,6 +1,6 @@
 # VaadinCRM-Tutorial
 
-This repository contains code for https://vaadin.com/docs/latest/tutorial/overview tutorial.
+This repository contains code I made by following https://vaadin.com/docs/latest/tutorial/overview tutorial.
 
 This version doesnt contain the testing and deployment parts of the tutorial.
 
